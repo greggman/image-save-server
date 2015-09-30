@@ -1,0 +1,22 @@
+{
+  "name": "image-save-server",
+  "version": "0.0.0",
+  "description": "A simple webserver that can save dataURLs to files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "dataURL",
+    "image",
+    "images",
+  ],
+  "author": "Gregg Tavares",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "optionator": "^0.6.0"
+  }
+}
