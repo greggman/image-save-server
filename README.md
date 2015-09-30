@@ -33,13 +33,14 @@ it with
 
     window.saveDataURL(filename, dataURL, callback)
 
-Example
+Example:
 
     window.saveDataURL("myimage.png", someCanvas.toDataURL(), function(err) {
-       if (err) {
-         alert("wasn't saved");
-       } else {
-         // was saved
+      if (err) {
+        alert("wasn't saved");
+      } else {
+        // was saved
+      }
     });
 
 **NOTE:** filenames are only allowed to use a-zA-Z0-9.-_ and space just for securtiy
