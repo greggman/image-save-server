@@ -60,6 +60,11 @@ Then in your browser to go `http://localhost:8080`. 100 png files
 will be generated in the ouput folder each with a random background
 gradient and the number of the image [just like these ones](https://github.com/greggman/image-grid/tree/master/test-images/filler).
 
+<img src="https://cdn.rawgit.com/greggman/image-grid/master/test-images/filler/samplefile-13.png" />
+<img src="https://cdn.rawgit.com/greggman/image-grid/master/test-images/filler/samplefile-37.png" />
+<img src="https://cdn.rawgit.com/greggman/image-grid/master/test-images/filler/samplefile-49.png" />
+<img src="https://cdn.rawgit.com/greggman/image-grid/master/test-images/filler/samplefile-74.png" />
+
 ## License
 
 MIT
